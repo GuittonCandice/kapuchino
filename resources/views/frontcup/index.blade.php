@@ -13,10 +13,10 @@
 
 
 
- {!! HTML::style('plugins/bootstrap/css/bootstrap.min.css') !!}
- {!! HTML::style('plugins/font-awesome/css/font-awesome.min.css') !!}
- {!! HTML::style('plugins//magnific-popup/magnific-popup.css') !!}
- {!! HTML::style('css/creative.min.css') !!}
+ {!! Html::style('plugins/bootstrap/css/bootstrap.min.css') !!}
+ {!! Html::style('plugins/font-awesome/css/font-awesome.min.css') !!}
+ {!! Html::style('plugins//magnific-popup/magnific-popup.css') !!}
+ {!! Html::style('css/creative.min.css') !!}
 
     <!-- Bootstrap Core CSS -->
      <!--<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
