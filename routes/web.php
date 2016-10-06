@@ -12,3 +12,5 @@
 */
 
 Route::resource('kapuchino/', "CupController");
+
+Route::get('/', "CupController@index");
